@@ -1,0 +1,11 @@
+Date: Wed, 27 Mar 2019 13:45:37 GMT
+Content-Type: text/plain; charset=UTF-8
+Strict-Transport-Security: max-age=2592000
+Set-Cookie: yd_cookie=03bdc8fe-51d6-4542b5458c312ebf4ffbdfb10d9f7b104bcc; Expires=1553701537; Path=/; HttpOnly
+Cache-Control: max-age=1800
+Cache-Control: public, max-age=0
+Last-Modified: Mon, 18 Feb 2019 10:52:10 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Cache: HIT
+Server: WAF/2.4-12.1
